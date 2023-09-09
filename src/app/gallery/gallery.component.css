@@ -1,0 +1,15 @@
+#gallery
+{
+  background-color: #2C3E50;
+}
+.icons{
+  margin-left: 40px;
+}
+.fa-facebook{
+  margin-left: 10px;
+  padding-right: 10px;
+}
+.fa-twitter , .fa-linkedin-in , .fa-globe
+{
+  padding-right: 10px;
+}

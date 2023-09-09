@@ -1,0 +1,30 @@
+.contact-text , .icon-star3{
+  color: #2C3E50;
+padding-left: 32rem;
+}
+.icon-star3{
+padding-left: 39rem;
+size: 200px;
+}
+.contact-text2 {
+  color: #2C3E50;
+}
+.line1{
+  content: "";
+  width: 100px;
+  height: 7px;
+  background-color: #2C3E50;
+  position: absolute;
+  margin-left: 32rem;
+  display: inline;
+}
+.line2{
+    content: "";
+    width: 100px;
+    height: 7px;
+    background-color: #2C3E50;
+    position: absolute;
+    margin-left: 0.6rem;
+    display: inline;
+
+}

@@ -1,0 +1,42 @@
+.portfolio-text
+{
+  margin-left: 400px;
+  color: rgb(70, 85, 101);
+}
+.portfolio-img img{
+  border-radius: 30px;
+}
+.icon-star5 {
+ padding-left:39rem ;
+ color: #2C3E50;
+}
+.line1{
+  content: "";
+  width: 100px;
+  height: 7px;
+  background-color: #2C3E50;
+  position: absolute;
+  margin-left: 32rem;
+  display: inline;
+}
+.line2{
+    content: "";
+    width: 100px;
+    height: 7px;
+    background-color: #2C3E50;
+    position: absolute;
+    margin-left: 0.6rem;
+    display: inline;
+
+}
+
+/* .portfolio-layer{
+  margin: 5px;
+
+background-color: #19AB8E;
+opacity: 0;
+ transition: 0.5s all;
+}
+.portfolio-img:hover .portfolio-layer{
+ opacity: 1;
+} */
